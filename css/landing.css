@@ -4,7 +4,7 @@ font-family: 'Noto Sans JP', sans-serif;
 }
 
 
-body{background-image: url(https://github.com/brianlavandera3/web/blob/8aa42aca76ba5c5c272a9a2f9eac1390cd7170de/img/Vector+1.svg);
+body{background-image: url(web/img/Vector+1.svg);
 background-size: cover;
 background-color: blue;
 background-position: right top;
